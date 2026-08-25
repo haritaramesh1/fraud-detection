@@ -1,0 +1,10 @@
+feature,mean_abs_shap
+numeric__oldbalanceOrg,2.649463656505646
+numeric__amount,1.828098012187768
+numeric__step,1.3178954384642543
+numeric__newbalanceOrig,1.2208557554767305
+numeric__oldbalanceDest,1.0550466293093865
+numeric__newbalanceDest,0.9097223823284717
+categorical__type_TRANSFER,0.8097923942397535
+categorical__type_CASH_OUT,0.6629967768746595
+numeric__isFlaggedFraud,4.1847413909479466e-05

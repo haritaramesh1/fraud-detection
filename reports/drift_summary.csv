@@ -1,0 +1,3 @@
+dataset,rows,mean_amount
+reference,1951895,305884.1672230934
+current_drifted,818514,1035967.1523238698
