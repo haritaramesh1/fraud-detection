@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 models/
 Add-Content .gitignore "`nreports/*.html"
+reports/drift_report.html
